@@ -1,0 +1,17 @@
+{
+  "name": "agendanode",
+  "version": "1.0.0",
+  "description": "actividad final de mongo en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Jose Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.14"
+  }
+}

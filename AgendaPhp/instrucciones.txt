@@ -1,0 +1,12 @@
+1-. Primero tendremos que crear una base de datos 
+--   agendaphp
+2-.  insertamos todo los datos que se miran con el archivo 
+--    Base-agendaphp.sql
+3-. tambien tenemos en comentarios las contraseñas para poder iniciar sesion 
+4-. tendremos que crear un usuario solo le damos los permisos sobre las dos tablas 
+que son 
+--  agendaeventos --- SELECT - INSERT - UPDATE -- REFERENCES y el DELETE
+--  agendausuarios --  SELECT - INSERT - UPDATE -- REFERENCES
+
+Usuario:   Shaggy  
+Contraseña: 000000
